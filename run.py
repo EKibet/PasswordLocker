@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.6
 
-import sys,os
+import sys, os
 import getpass
 from user_data import Users
 from format_outputs import *

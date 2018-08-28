@@ -1,0 +1,5 @@
+[
+  "test.py::UserTestCases::test_if_user_can_create_an_account",
+  "test.py::UserTestCases::test_if_user_can_create_credential",
+  "test.py::UserTestCases::test_user_with_an_account_can_login"
+]
